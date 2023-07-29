@@ -1,0 +1,10 @@
+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 --api
+
+smtp-relay.sendinblue.com -host
+587 --port
+vayavi6626@yasiok.com -login
+Hawahawa@123 --password
+ZDgPTAzQnXOcsESY -masterkey
+
+
+sendinblue.com
